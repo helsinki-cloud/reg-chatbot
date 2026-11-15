@@ -1,0 +1,7 @@
+streamlit>=1.40
+openai>=1.50
+numpy
+rank-bm25
+kiwipiepy
+python-dotenv
+requests
